@@ -1,0 +1,13 @@
+{
+    "name": "aws-ts",
+    "devDependencies": {
+        "@types/node": "^10.0.0",
+        "@types/shortid": "0.0.29"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^4.0.0",
+        "@pulumi/awsx": "^0.30.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "shortid": "^2.2.16"
+    }
+}
